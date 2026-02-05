@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Reddy Manideepak 👋
 
-<!--
-**rmanideepak/rmanideepak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst & Machine Learning Engineer passionate about solving real-world problems using data.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python, SQL
+- Pandas, NumPy, Scikit-learn
+- Power BI, Tableau
+- Machine Learning & Analytics
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Project
+🚀 Retail Demand Forecasting & Anomaly Detection  
+Predicts retail sales and detects unusual patterns using ML.
+
+🔗 Project Link:
+https://github.com/rmanideepak/retail-demand-forecasting
+
+## 📫 Connect with Me
+LinkedIn: https://www.linkedin.com/in/reddy-manideepak
